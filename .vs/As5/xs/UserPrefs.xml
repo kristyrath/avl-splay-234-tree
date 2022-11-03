@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{18696BAF-34BD-40DF-A147-2BFCA54BAC91}|Default">
+  <MonoDevelop.Ide.ItemProperties.As5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="As5/Program.cs">
+    <Files>
+      <File FileName="As5/SortableObject.cs" Line="34" Column="30" />
+      <File FileName="As5/Splay.cs" Line="592" Column="6" />
+      <File FileName="As5/Program.cs" Line="52" Column="59" />
+      <File FileName="As5/TTFTrees.cs" Line="14" Column="29" />
+      <File FileName="As5/Node.cs" Line="44" Column="9" />
+      <File FileName="As5/AVL.cs" Line="347" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="As5" expanded="True">
+            <Node name="As5" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
